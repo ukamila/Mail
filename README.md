@@ -13,4 +13,4 @@ to other users stored in the system. They can also reply and archive emails.
 
 ### Files
 
-For this project, we were already given all the functions for [views.py](mail/views.py) that controls the view pages of the website. Our task was to modify index.html and index.js, a javascript file that is responsible for most of the website's functionality (sending/replying to emails, archiving conversations).
+For this project, we were already given all the functions for [views.py](mail/views.py) that controls the view pages of the website. Our task was to modify [index.html](mail/templates/mail/index.html) and [index.js](mail/static/mail/index.js), a javascript file that is responsible for most of the website's functionality (sending/replying to emails, archiving conversations).
