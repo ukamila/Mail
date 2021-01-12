@@ -1,0 +1,25 @@
+textarea {
+    min-height: 400px;
+}
+
+.mail-element .row {
+    border: 1px solid black;
+    padding: 5px 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mail-element .sender {
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+.mail-element .subject {
+    margin-right: 250px;
+}
+
+.mail-element .timestamp {
+    color: #888;
+    text-align: right;
+}
